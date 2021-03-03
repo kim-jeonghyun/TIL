@@ -32,11 +32,11 @@
 
 
 ### vim command
+
 1. basic vim commands
-:wq - Save your file and close Vim
 
-:q! - Quit without first saving the file you were working on
-
+- :wq  Save your file and close Vim
+- :q!  Quit without first saving the file you were working on
 
 
 2. vim commmands for movement
@@ -45,14 +45,15 @@
 
 3. vim commands for editing
 
-yy - Copies a line
+- yy  Copies a line
 
-yw - Copies a word
+- yw  Copies a word
 
-y$ - Copies from where your cursor is to the end of a line
+- y$  Copies from where your cursor is to the end of a line
 
-p - Paste whatever has been copied to the unnamed register
+- p  Paste whatever has been copied to the unnamed register
 
+- u  Undo the last operation; u# allows you to undo multiple actions
 
 ### how to make a new repository on github
 
