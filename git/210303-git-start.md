@@ -61,8 +61,19 @@
 
 #### start project with git clone
 
-### commit convention
+#### commit my work
 
+#### commit convention
+
+### build my dev-blog on github page
+
+#### make github page repo
+
+#### build my blog using HEXO
+
+#### apply cool HEXO theme
+
+#### write the very first blog post
 
 ## TODO
 
