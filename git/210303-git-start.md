@@ -66,13 +66,13 @@
 #### commit convention
 
 ### build my dev-blog on github page
-
+(https://kim-jeonghyun.github.io)
 #### make github page repo
 
 #### build my blog using HEXO
-
+(https://hexo.io/ko/docs/)
 #### apply cool HEXO theme
-
+(https://theme-next.js.org/docs/getting-started/)
 #### write the very first blog post
 
 ## TODO
